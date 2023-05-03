@@ -3,7 +3,7 @@ import requests
 import time
 import json
 
-API_KEY = "OIXEnFrMIe4qLHo8pGS9Xg(("
+API_KEY = ""
 API_URL = "https://api.stackexchange.com/2.3/questions?order=desc&sort=activity&site=stackoverflow"
     
 producer = KafkaProducer(bootstrap_servers=['192.168.0.22:9092'])
