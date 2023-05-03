@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kafka": "^0.2.3",
+    "systemctl": "^0.2.2"
+  }
+}
